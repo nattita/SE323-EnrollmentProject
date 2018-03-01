@@ -1,0 +1,38 @@
+﻿
+head {
+}
+
+body {
+    text-align: center;
+    background-image: url("https://images2.alphacoders.com/261/26102.jpg");
+}
+
+div {
+}
+
+#topic {
+    color: white;
+    border: solid white;
+}
+
+#button1 {
+    border: none;
+    color: white;
+    padding: 200px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-image: url("https://static1.squarespace.com/static/57362e89d210b8ad8484e636/573641d2f8baf3384ab6d22c/57364d8fe3214090076b0967/1475008937074/hand-with-magnifying-glass-icon.png?format\u003d300w");
+}
+
+#button2 {
+    background-image: url("http://clipart.info/images/minicovers/1496184671stack-of-money.png");
+    border: none;
+    color: white;
+    padding: 200px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

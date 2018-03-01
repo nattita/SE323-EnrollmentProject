@@ -1,0 +1,60 @@
+﻿
+
+
+head {
+    
+  
+}
+
+body {
+    text-align: center;
+    background-image: url("https://images2.alphacoders.com/261/26102.jpg");
+}
+
+div{
+
+
+}
+
+#topic {
+    color: white;
+    border:  solid white;
+   
+    
+}
+#button1 {
+   
+    border: none;
+    color: white;
+    padding: 200px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-image: url("https://images.vexels.com/media/users/3/128199/isolated/preview/b354bc4707224bd3d15b9ae36eca70c0-male-student-cartoon-by-vexels.png");
+
+
+
+}
+
+#button2 {
+    background-image: url("https://images.vexels.com/media/users/3/128876/isolated/preview/64675632e71d2e19ad09b5797b07ae59-teacher-profession-cartoon-svg-by-vexels.png");
+    border: none;
+    color: white;
+    padding: 200px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#button3 {
+    background-image: url("https://millennialmindset.co.uk/wp-content/uploads/2017/06/Millennial-Employee-101.png");
+       border: none;
+    color: white;
+    padding: 200px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

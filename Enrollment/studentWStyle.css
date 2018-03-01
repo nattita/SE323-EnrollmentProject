@@ -1,0 +1,16 @@
+﻿body {
+    color: whitesmoke;
+    background-image: url("https://images2.alphacoders.com/261/26102.jpg");
+}
+
+#topic {
+    color: white;
+    border: solid white;
+    text-align: center;
+}
+
+}
+
+input[type=button]:hover {
+    background-color: ghostwhite;
+}
